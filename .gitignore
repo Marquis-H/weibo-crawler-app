@@ -1,0 +1,9 @@
+all.log
+config.json
+error.log
+weibo
+app/node_modules
+app/yarn.lock
+api/node_modules
+api/yarn.lock
+api/db.config.js

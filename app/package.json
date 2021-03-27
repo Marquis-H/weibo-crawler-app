@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "echarts": "4",
+    "v-charts": "^1.19.0"
+  }
+}
